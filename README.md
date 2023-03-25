@@ -1,2 +1,2 @@
 # roblox-shit
-lol
+i will post script for shit games on roblox

@@ -3,7 +3,7 @@
 >:yellow_circle: - Updating
 >:red_circle: - Not working
 |Game|Script-Status|
-|-------------------|
+
 |Jumping pets simulator|:yellow_circle:|
 
 # roblox-shit

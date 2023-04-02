@@ -3,9 +3,9 @@
 >:yellow_circle: - Updating
 >:red_circle: - Not working
 
-|Game|Script-Status|
+```|Game|Script-Status|```
 
-|Jumping pets simulator|:yellow_circle:|
+```|Jumping pets simulator|:yellow_circle:|```
 
 # roblox-shit
 i will post script for shit games on roblox

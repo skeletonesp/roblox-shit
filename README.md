@@ -1,4 +1,4 @@
-#SCRIPTS-STATUS
+# SCRIPTS-STATUS
 >:green_circle: - Working
 >:yellow_circle: - Updating
 >:red_circle: - Not working

@@ -5,7 +5,7 @@
 
 ```|Game|Script-Status|```
 
->Jumping pets simulator - :yellow_circle:
+>Jumping pets simulator - :green_circle:
 
 # roblox-shit
 i will post script for shit games on roblox

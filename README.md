@@ -16,5 +16,6 @@ i will post script for shit games on roblox
 > Loadstring: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/smo-ke/roblox-shit/main/Jumping_Pets_sim.lua"))()```
 
 # Jumping pets simulator
-> Change Log
+> Change log
+```[+] Added Autofarm```
 

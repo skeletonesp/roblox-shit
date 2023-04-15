@@ -21,5 +21,7 @@ i will post script for shit games on roblox
 ```[+] Added gui section```
 ```[*] Fixed some teleports```
 ```[+] Added claim gifts```
+```[+] Added low gfx```
+```[+] Added anti afk```
 
 

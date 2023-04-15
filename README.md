@@ -17,5 +17,9 @@ i will post script for shit games on roblox
 
 # Jumping pets simulator
 > Change log
-```[+] Added Autofarm```
+```[*] Fixed AutoFarm now its toggle```
+```[+] Added gui section```
+```[*] Fixed some teleports```
+```[+] Added claim gifts```
+
 
